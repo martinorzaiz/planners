@@ -1,4 +1,4 @@
-$("#main").append([Martin])
+$("#main").append(["Martin"])
 var name="Martin"
 var formattedName=HTMLheaderName.replace("%data", name);
 var role="Web Developer"
